@@ -12,12 +12,7 @@
 
 𝕐 𝕧𝕚𝕧𝕒 𝕝𝕠𝕤 𝕡𝕒𝕟𝕖𝕔𝕚𝕥𝕠𝕤 𝕕𝕖 𝕝𝕖𝕔𝕙𝕖 (•◡•)
 
-<div align="center">
-<table role="presentation" style="border: none;">
-<tr>
-<td style="border: none;">
-
-```text
+```yaml
 🐱========================================================================🐱
                                 💖 I will always carry you in my heart, my little friend 💖
                                      💻 OS -------------> Windows 11 y pronto Fedora💻
